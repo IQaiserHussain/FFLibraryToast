@@ -1,0 +1,3 @@
+rootProject.name = "FFToast"
+include ':app'
+include ':FFtoastlibrary'
